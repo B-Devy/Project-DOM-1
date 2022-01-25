@@ -1,0 +1,20 @@
+h1 {
+    color: rgb(233, 230, 230);
+    
+}
+
+.sousligne {
+    text-decoration: underline;
+    color: green;
+}
+
+#cible {
+    width: 250px;
+    height: 300px;
+    background-color: grey;
+}
+
+label {
+    border: black dotted 2px;
+    padding-bottom: 250px;
+}
